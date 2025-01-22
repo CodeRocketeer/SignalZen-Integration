@@ -1,0 +1,14 @@
+{
+  "name": "signalzen-integration",
+  "version": "1.0.0",
+  "main": "inject-token.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "build": "node inject-token.js"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
